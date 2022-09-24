@@ -1,11 +1,3 @@
-<p align="left">
-  <a href="https://twitter.com/hirokazu92">
-    <img height="20" src="https://img.shields.io/twitter/follow/hirokazu92?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/19910987/hirokazu-nakao">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/19910987?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-</p>
 <h3>📊 Used Languages & GitHub Status 📋:</h3>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokazu1209&layout=compact&show_icons=true" />
