@@ -8,14 +8,8 @@
   <a href="https://github.com/hirokazu1209">
     <img height="20" src="https://img.shields.io/github/followers/hirokazu1209?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/hirokazu1209">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/hirokazu1209">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hirokazu1209/posts.svg" />
-  </a>
-  <//qiita.com/hirokazu1209">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hirokazu1209/contributions.svg" />
+  <a href="https://stackoverflow.com/users/19910987/hirokazu-nakao">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/19910987?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
 </p>
 <p align="left"> 
