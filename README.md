@@ -1,7 +1,4 @@
 <p align="left">
-  <a href="https://github.com/hirokazu1209/hirokazu1209/">
-    <img src="https://komarev.com/ghpvc/?username=hirokazu1209" alt="hirokazu1209" />
-  </a>
   <a href="https://twitter.com/hirokazu92">
     <img height="20" src="https://img.shields.io/twitter/follow/hirokazu92?label=Twitter&logo=twitter&style=flat" />
   </a>
