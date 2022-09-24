@@ -2,8 +2,8 @@
   <a href="https://github.com/hirokazu1209/hirokazu1209/">
     <img src="https://komarev.com/ghpvc/?username=hirokazu1209" alt="hirokazu1209" />
   </a>
-  <a href="http://twitter.com/hirokazu1209">
-    <img height="20" src="https://img.shields.io/twitter/follow/hirokazu1209?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://twitter.com/hirokazu92">
+    <img height="20" src="https://img.shields.io/twitter/follow/hirokazu92?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/hirokazu1209">
     <img height="20" src="https://img.shields.io/github/followers/hirokazu1209?label=follow&logo=github&style=flat" />
