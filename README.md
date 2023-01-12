@@ -1,4 +1,4 @@
-<h3>📊 Used Languages & GitHub Status 📋:</h3>
+<!-- <h3>📊 Used Languages & GitHub Status 📋:</h3>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokazu1209&layout=compact" />
@@ -8,7 +8,7 @@
 <h3>🏆 Trophy 🏆:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hirokazu1209&theme=chalk&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+ -->
 <h3>GitHub Streak:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirokazu1209&theme=blueberry_duo&border_radius=5&margin-w=15)](https://git.io/streak-stats)
